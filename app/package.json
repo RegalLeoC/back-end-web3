@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "mariadb": "^3.3.2",
+    "sequelize": "^6.37.4",
+    "dotenv": "^16.4.5"
+  }
+}
